@@ -56,7 +56,7 @@ Experiments are carried out on two publicly-available benchmarks and one in-hous
 
 ## 3. Guidelines for Usage
 
-1. To train the MCTN model, run "**4.1 mctn_model.py**"  in PyCharm.
+1. To train the MCTN model, run "**mctn_model.py**"  in PyCharm.
 
 **Other Information**
 
@@ -72,7 +72,7 @@ Experiments are carried out on two publicly-available benchmarks and one in-hous
    | 100  |            2/1            |   60    |    295    |   9    |   297   |
    | 200  |          1/None           |   120   |    581    |   11   |   583   |
 
-3. After the preparation of the dataset, switching to a different dataset can be achieved by commenting out the unnecessary parts in  "**4.1 mctn_model.py**". The loading code for the three datasets used in this study are denoted as a, b, and c, respectively.
+3. After the preparation of the dataset, switching to a different dataset can be achieved by commenting out the unnecessary parts in  "**mctn_model.py**". The loading code for the three datasets used in this study are denoted as a, b, and c, respectively.
 
    ```python
    my_dataset = MySoftfallData()
@@ -80,7 +80,7 @@ Experiments are carried out on two publicly-available benchmarks and one in-hous
    # my_dataset = MySisfallData()
    ```
 
-4. By commenting out the unnecessary sections in "**4.1 mctn_model.py**", it is possible to utilize data from only two (6-axis) or three (9-axis) sensors.
+4. By commenting out the unnecessary sections in "**mctn_model.py**", it is possible to utilize data from only two (6-axis) or three (9-axis) sensors.
 
    ```python
    for step, (train_signal, train_label) in enumerate(train_loader):
