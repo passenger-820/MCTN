@@ -111,9 +111,7 @@ Experiments are carried out on two publicly-available benchmarks and one in-hous
    ```
 
 
-If you are interested in the application of computer vision techniques in this field, please refer to our [comprehensive review]([https://doi.org/10.1016/j.engappai.2023.105993](https://doi.org/10.1007/978-981-99-2385-4_45)).
-
-This work can be cited as BibTex:
+If you are interested in the application of computer vision techniques in this field, please refer to our [comprehensive review](https://doi.org/10.1007/978-981-99-2385-4_45).This work can be cited as BibTex:
 ```bib
 @inproceedings{yang2022survey,
   title={A Survey of Computer Vision-Based Fall Detection and Technology Perspectives},
