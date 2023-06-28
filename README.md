@@ -109,4 +109,20 @@ Experiments are carried out on two publicly-available benchmarks and one in-hous
        # test_signal = test_signal[:, 0:6, ...].to(device) # a,g
        test_signal = test_signal.to(device) # a,g,m / a,g,a
    ```
-   
+
+
+If you are interested in the application of computer vision techniques in this field, please refer to our [comprehensive review]([https://doi.org/10.1016/j.engappai.2023.105993](https://doi.org/10.1007/978-981-99-2385-4_45)).
+
+This work can be cited as BibTex:
+```bib
+@inproceedings{yang2022survey,
+  title={A Survey of Computer Vision-Based Fall Detection and Technology Perspectives},
+  author={Yang, Manling and Li, Xiaohu and Liu, Jiawei and Wang, Shu and Liu, Li},
+  booktitle={CCF Conference on Computer Supported Cooperative Work and Social Computing},
+  pages={595--609},
+  year={2022},
+  organization={Springer}
+}
+```
+
+
