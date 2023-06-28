@@ -1,3 +1,20 @@
+Regarding the research on fall prediction and fall detection, you can refer to our [comprehensive review](https://doi.org/10.1016/j.engappai.2023.105993).
+This work can be cite by BibTex:
+```bib
+@article{LIU2023105993,
+title = {A review of wearable sensors based fall-related recognition systems},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {121},
+pages = {105993},
+year = {2023},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2023.105993},
+url = {https://www.sciencedirect.com/science/article/pii/S095219762300177X},
+author = {Jiawei Liu and Xiaohu Li and Shanshan Huang and Rui Chao and Zhidong Cao and Shu Wang and Aiguo Wang and Li Liu}
+}
+```
+
+
 # MCTN
 Repo of Paper " MCTN: A MULTI-CHANNEL TEMPORAL NETWORK FOR WEARABLE FALL PREDICTION" in ECML PKDD 2023
 
