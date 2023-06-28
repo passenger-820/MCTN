@@ -1,5 +1,5 @@
 Regarding the research on fall prediction and fall detection, you can refer to our [comprehensive review](https://doi.org/10.1016/j.engappai.2023.105993).
-This work can be cite by BibTex:
+This work can be cited as BibTex:
 ```bib
 @article{LIU2023105993,
 title = {A review of wearable sensors based fall-related recognition systems},
